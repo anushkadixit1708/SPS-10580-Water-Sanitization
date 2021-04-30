@@ -8,11 +8,14 @@ also on the economic and social development of areas.<br>
 <br>
 
 An analysis of the impurities present in the water in different regions across the country tells us
-about the magnitude of the issue and just hoe many habitations are affected by the problem.
+about the magnitude of the issue and just how many habitations are affected by the problem.
 Understanding the problem well, we can derive effective solutions to combat the problem which
-are region specific and help supply water fit for drinking to people in the heart of the country.
+are region specefic and help supply water fit for drinking to people in the heart of the country.
 <br>
 For detailed information, go through Project Report and Dashboards
 
 ## Tableau Public Link
 https://prod-apnortheast-a.online.tableau.com/#/site/anushkadixit0088/projects/106441?:origin=card_share_link
+
+## Video Link
+https://drive.google.com/file/d/1WtfdxfIj26myRS-J457lorKEp48ImlM8/view?usp=sharing
